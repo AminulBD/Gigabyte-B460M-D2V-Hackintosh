@@ -6,7 +6,7 @@ In this repository, I've included all things that I used to build my small Hacki
 | Components           | Model                   | Working?      |
 | -------------------- | ----------------------- | :-----------: |
 | Motherboard          | Gigabyte B460M D2V      | Yes           |
-| CPU                  | Intel i4-10400          | Yes           |
+| CPU                  | Intel i3-10100          | Yes           |
 | GPU (Integrated)     | Intel® UHD Graphics 630 | Yes           |
 | GPU (External)       | -                       | -             |
 | RAM                  | 2x8GB DDR-4             | Yes           |
@@ -15,8 +15,6 @@ In this repository, I've included all things that I used to build my small Hacki
 | HDD                  | -                       | -             |
 | Audio                | ALC887                  | Yes           |
 | Ethernet             | Realtek® GbE LAN        | Yes           |
-| Wireless (WiFi & BT) | BCM94352HMB             | Yes (Both)    |
-| USB                  | -                       | Yes, All      |
 
 
 #### System & Tools
