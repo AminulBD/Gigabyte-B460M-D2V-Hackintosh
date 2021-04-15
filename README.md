@@ -36,9 +36,22 @@ In this repository, I've included all things that I used to build my small Hacki
 
 
 #### BIOS Setup
-| Name             | Status                 | Comments     |
-| ---------------- | ---------------------- | ------------ |
-| VT-D             | Disabled               | -            |
+| Name                | Status                 | Comments     |
+| ------------------- | ---------------------- | ------------ |
+| VT-D                | Disabled               | -            |
+| DVMT Pre-Allocated  | 64M                    | -            |
+| DVMT Total Gfx Mem  | 256M                   | -            |
+| Aperture Size       | 256MB                  | -            |
+| Avobe 4G Decoding   | Enabled                | -            |
+| Serial Port         | Disabled               | -            |
+| Legacy USB Support  | Disabled               | -            |
+| XHCI Hand-off       | Enabled                | -            |
+| Network Stack       | Disabled               | -            |
+| SATA Mode Selection | AHCI                   | -            |
+| Fast Boot           | Disable Link           | -            |
+| Windows 10 Features | Other OS               | -            |
+| CSM Support         | Disabled               | -            |
+| Secure Boot         | Disabled               | -            |
 
 
 ## Create Bootable USB Disk
